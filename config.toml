@@ -1,19 +1,19 @@
 site_title = "MyArxiv"
-limit_days = 30
+limit_days = 90
 cache_url = "https://arlosefj.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.MM"
 title = "Multimedia"
 
